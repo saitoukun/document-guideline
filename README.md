@@ -7,32 +7,37 @@
 
 ## Overview <a name = "overview"></a>
 
-このリポジトリは優れたドキュメントを書くための知識・技術・サンプルをまとめたものです。社会人として最も必要な能力は、優れたドキュメントを書けることだと考えています。特に構造化されたテキストは次のような利点があります。
+このリポジトリは優れたドキュメントを書くための知識・技術・サンプルをまとめたものです。社会人として最も必要な能力は、優れたドキュメントを書けることだと考えています。
 
 ## Best Practices <a name = "best_practices"></a>
 
 ### 心がけ
+
 - 叙述形式で伝わるような文章を書く
 - 読み手の認知コストを最小に抑えることを意識する
 - プレーンテキストで再利用しやすい状態にする
 
 ### 技術者向け
+
 - Markdownを使用して構造化する
 - Table of Contentsを用意する
 - git管理で差分を残す
 
 ## Docs <a name = "docs"></a>
 
+### いいドキュメントを書くための技術
+
+[StructuredDocument](./jp/StructuredDocument.md)
+[TechnicalWriting](./jp/TechnicalWriting.md)
+
 ### Archive or Living
+
 [ArchiveDocument](./jp/ArchiveDocument.md)
 [LivingDocument](./jp/LivingDocument.md)
 
 ### PRD & RFC
-[PRD-RFC](./jp/PRD-RFC.md)
 
-### いいドキュメントを書くための技術
-[StructuredDocument](./jp/StructuredDocument.md)
-[TechnicalWriting](./jp/TechnicalWriting.md)
+[PRD-RFC](./jp/PRD-RFC.md)
 
 ## 参考リポジトリ
 
