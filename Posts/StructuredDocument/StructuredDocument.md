@@ -33,28 +33,3 @@ https://www.youtube.com/watch?v=8y9hCQpN40A
 > 反復（repetition）条件式が導出した特定の状態の間、部分プログラムを繰り返し実行する。
 
 https://ja.wikipedia.org/wiki/%E6%A7%8B%E9%80%A0%E5%8C%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
-
-### マークアップ言語(Markup language)とは
-
-エディトリアル・マークアップに着想を得て、1960年代の終わり頃からコンピュータによる文書処理のためのマークアップ言語の設計が
-
-
-## Markdownとは
-
-Markdownは多くのエンジニアが技術文書の作成と編集に使用する軽量のマークアップ言語です。
-
-> Markdown は、Web ライター向けのテキストから HTML への変換ツールです。Markdown を使用すると、読みやすく書きやすいプレーン テキスト形式を使用して記述し、それを構造的に有効な XHTML (または HTML) に変換できます。
-https://daringfireball.net/projects/markdown/
-
-### 参考リンク
-
-- https://developers.google.com/tech-writing/one/markdown
-- https://www.markdownguide.org/
-
-
-### ツール
-
-Markdownに倣ったプレーンテキストを用いて、フローチャートやシーケンス図、プレゼンテーションスライドを作ることが可能です。
-
-- https://marp.app/
-- https://github.com/mermaid-js/mermaid

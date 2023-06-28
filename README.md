@@ -3,11 +3,10 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Best Practices](#best_practices)
-- [Docs](#docs)
 
 ## Overview <a name = "overview"></a>
 
-このリポジトリは優れたドキュメントを書くための知識・技術・サンプルをまとめたものです。社会人として最も必要な能力は、優れたドキュメントを書けることだと考えています。
+このリポジトリは優れたドキュメントを書くための知識・技術・サンプルをまとめたものです。
 
 ## Best Practices <a name = "best_practices"></a>
 
@@ -23,25 +22,6 @@
 - Table of Contentsを用意する
 - git管理で差分を残す
 
-## Docs <a name = "docs"></a>
-
-### いいドキュメントを書くための技術
-
-[StructuredDocument](./jp/StructuredDocument.md)
-[TechnicalWriting](./jp/TechnicalWriting.md)
-
-### Archive or Living
-
-[ArchiveDocument](./jp/ArchiveDocument.md)
-[LivingDocument](./jp/LivingDocument.md)
-
-### PRD & RFC
-
-[PRD-RFC](./jp/PRD-RFC.md)
-
-## 参考リポジトリ
-
-https://github.com/kylelobo/The-Documentation-Compendium
 
 ## TODO
 
