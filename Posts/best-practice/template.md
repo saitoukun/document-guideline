@@ -1,3 +1,12 @@
+# Template
+
+## Table of Contents
++ [Overview](#Overview)
++ [Reference](#Reference)
+
+## Overview
+
+## Reference
 
 ### The Good Docs Project
 https://thegooddocsproject.dev/
