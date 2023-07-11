@@ -22,7 +22,6 @@
 - Table of Contentsを用意する
 - git管理で差分を残す
 
-
 ## TODO
 
 - 英語版を追加
